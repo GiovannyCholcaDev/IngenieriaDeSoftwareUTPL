@@ -1,0 +1,6 @@
+Hola mundo, 
+este es un archivo txt, 
+creado para probar la herramienta GIT
+para la parte de Ensayo de la Materia de Ingenieria de Software
+
+autor: Byron Giovanny Cholca
